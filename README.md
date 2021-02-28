@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Zeynep BUDAK</h1>
 <h3 align="center">Msc Student in Statistics / Data Science Researcher</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/zeynepbudak](https://www.kaggle.com/zeynepbudak)
+- [https://www.kaggle.com/zeynepbudak](https://www.kaggle.com/zeynepbudak)
 
-- 📝 I regularly write articles on [https://kadubpenyez.medium.com/](https://kadubpenyez.medium.com/)
+- [https://kadubpenyez.medium.com/](https://kadubpenyez.medium.com/)
 
-- 📫 How to reach me **zeynepbudakiletisim@gmail.com**
+- **zeynepbudakiletisim@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/zeynepbudakiletisim/](https://www.linkedin.com/in/zeynepbudakiletisim/)
+- [https://www.linkedin.com/in/zeynepbudakiletisim/](https://www.linkedin.com/in/zeynepbudakiletisim/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
