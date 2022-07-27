@@ -1,5 +1,5 @@
-<h1 align="center">Hi, It's Zeynep! </h1>
-<h3 align="center">Analytical Consultant & Data Scientist at Kafein Tech. Sol. & SAS </h3>
+<h1 align="center">Hi, I am Zeynep! </h1>
+<h3 align="center">I’m a statistician, data scientist and content creator based in Turkey. </h3>
 
 - [https://www.kaggle.com/zeynepbudak](https://www.kaggle.com/zeynepbudak)
 
